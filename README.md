@@ -1,61 +1,44 @@
 # Electronic-Circuits--Half-Wave-Rectifier
 
 ## AIM:
-To simulate a half wave rectifier circuit and compare the outputs with and without filter:
-## CIRCUIT DIAGRAM:
-## Half Wave Rectifier Without Filter
-<img width="823" height="559" alt="image" src="https://github.com/user-attachments/assets/9ef550ad-6fb3-4eb0-a8f5-07c234aeff7f" />
+To simulate a half wave rectifier circuit and compare the outputs with and without filter
 
-## Half Wave Rectifier With Filter
-<img width="1003" height="561" alt="image" src="https://github.com/user-attachments/assets/76c8bbe9-697e-4c59-a856-94ad969b005a" />
+## CIRCUIT DIAGRAM:
+
+## Halfwave Rectifier without filter
+<img width="1444" height="971" alt="image" src="https://github.com/user-attachments/assets/be4473f6-04a5-438e-92e5-0f8ddd7dc167" />
+
+## Halfwave Rectifier with filter
+<img width="1846" height="983" alt="image" src="https://github.com/user-attachments/assets/4ff17aa7-f7f5-47ec-a278-120e8a30b471" />
 
 ## STEPS FOR SIMULATION:
-1.	Open the Ltspice software
-  
-2.	FileNew Schematic
-	
-3.	Click component symbol  to browse and select the components
-  
-4.	Find the diode or diodes from the component list and place them.
-  
-5.	Click OK and place the component
-  
-6.	Search for resistor from component menu or from the tab icons
-  
-7.	Place the resistors
-    
-8.	Search for capacitor from the component menu or from the tab icons
-    
-9.	Place the capacitors
-    
-10.	Use ctrl + R to rotate the components
-    
-11.	Use wire symbol  to connect the components as per the circuit diagram
-    
-12.	Right click each components to give the values
-    
-13.	Use run button  to run the simulation
-    
-14.	Set the step time and click ok
-  
-15.	Output dialog box will open
-    
-16.	In the output dialog box right click and select add traces
-    
-17.	Node voltages and current of each components names will be displayed.
-    
-18.	Select the required node voltages (V(n001)) to get the waveforms.
-   
-37.	To get the voltage across a component the name of the trace should represent both the nodes. example V(n001,n002))
+1.	Open the Ltspice software.<br>  
+2.	File  New Schemati.c<br> 
+3.	Click component symbol  to browse and select the components.<br> 
+4.	Find the diode or diodes from the component list and place them.<br> 
+5.	Click OK and place the component.<br> 	
+6.	Search for resistor from component menu or from the tab icons.<br> 
+7.	Place the resistors.<br> 
+8.	Search for capacitor from the component menu or from the tab icons.<br> 
+9.	Place the capacitors.<br> 
+10.	Use ctrl + R to rotate the components.<br> 
+11.	Use wire symbol  to connect the components as per the circuit diagram.<br> 
+12.	Right click each components to give the values.<br> 	
+13.	Use run button  to run the simulation.<br> 
+14.	Set the step time and click ok.<br> 
+15.	Output dialog box will open.<br> 
+16.	In the output dialog box right click and select add traces.<br> 
+17.	Node voltages and current of each components names will be displayed.<br> 
+18.	Select the required node voltages (V(n001)) to get the waveforms.<br> 
+19.	To get the voltage across a component the name of the trace should represent both the nodes. example V(n001,n002)).<br> 
 
 ## OUTPUT:
-## Half Wave Rectifier without Filter
-<img width="1916" height="971" alt="image" src="https://github.com/user-attachments/assets/bfb0bc51-adfc-43db-adcb-8cd9c40e0c7c" />
+## Halfwave Rectifier without filter
+<img width="1600" height="798" alt="image" src="https://github.com/user-attachments/assets/9b79eabb-64c6-4aa3-8890-dfea48cc5f2d" />
 
-## Half Wave Rectifier with Filter
-<img width="1919" height="989" alt="image" src="https://github.com/user-attachments/assets/890e418e-dbf6-4e3f-a34d-f1562eda9381" />
-
+## Halfwave Rectifier with filter
+<img width="1600" height="797" alt="image" src="https://github.com/user-attachments/assets/75690216-f0c0-4b89-89df-e9958db94276" />
 
 ## RESULT:
-![WhatsApp Image 2025-11-22 at 18 27 27_cf6cac53](https://github.com/user-attachments/assets/8ec61e38-602b-48fb-91bf-8a2dc57052ef)
+![half](https://github.com/user-attachments/assets/6dc89279-ec5b-4652-be6a-75c1010ea57f)
 
